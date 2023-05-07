@@ -1,0 +1,20 @@
+body {
+	background-image: url("IMG_20230507_092741_674.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.pic{
+	width: 600px;
+	height: 190px;
+	margin-top: 45px;
+	display: block;
+	margin-left: 170px;;
+}
+
+p{
+	text-align: center;
+	font-size: 58px;
+	color: white;
+	font-weight: bold;
+	margin-top: 750px;
+}
